@@ -1,2 +1,2 @@
 # hello-world
-Example of how tp use GitHub
+Example of how to use GitHub
